@@ -1,4 +1,4 @@
-# Model Unlocker
+# Model Unlocker GUI
 
 This tool is used to unlocking GTA5 Yft, Ydr and ydd models, the unlocked models can be imported into ZModeler3 for editing.
 
