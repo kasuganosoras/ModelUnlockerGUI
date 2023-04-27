@@ -1,0 +1,6 @@
+libs/
+example/
+testoutput/
+*.bak
+*.bat
+*.dat
