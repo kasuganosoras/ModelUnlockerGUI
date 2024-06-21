@@ -11,6 +11,8 @@ Currently, unlocking models with cloth mesh (Yld) is not supported. If some mode
 
 If your computer has not installed .Net Core 3.1, please install it before running this software.
 
+> **This program was written in a Chinese programming language called [易语言](https://www.dywt.com.cn/), your antivirus software may report it as a virus. It 100% just a wrong report and you can ignore it. You can also build it from source code if you don't trust it.**
+
 ## Usage
 
 Download the latest release from [Releases Page](https://github.com/kasuganosoras/ModelUnlockerGUI/releases).
